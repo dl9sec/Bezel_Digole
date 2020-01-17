@@ -8,6 +8,6 @@ Copyright (C) 2019 by Thorsten Godau (dl9sec) and licensed under GNU GPL v3.0, h
 
 ![alt Bezel front](https://github.com/dl9sec/Bezel_Digole/raw/master/images/Bezel_Digole_TFT_I2C_1.8in_1.png)
 
-![alt Rear view](https://github.com/dl9sec/Bezel_Digole/raw/master/images/Bezel_Digole_TFT_I2C_1.8in_1.png)
+![alt Rear view](https://github.com/dl9sec/Bezel_Digole/raw/master/images/Bezel_Digole_TFT_I2C_1.8in_2.png)
 
 ![alt Bezel in use](https://github.com/dl9sec/Bezel_Digole/raw/master/images/Bezel_Digole_TFT_I2C_1.8in_3.png)
